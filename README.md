@@ -1,2 +1,2 @@
 # go-mysql-rest_api
-Go REST API with Mux and MySQL practice
+Simple `REST API` implemented using `Go` and integrated with `MySQL`.
